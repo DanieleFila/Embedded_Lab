@@ -1,0 +1,21 @@
+------------------ MOTOR 1 -----------------
+-- TANGENT METHOD ESTIMATED CONSTANTS --
+Estimated mu1: 2.2668 s
+Estimated τ1: 0.0636 s
+Estimated T1: 0.6570 s
+Estimated w1: 11.3340 s
+
+---- MANUAL ESTIMATED TIME CONSTANTS ----
+Manual estimated tau1: 0.0500 s 
+Manual estimated T1: 0.4700 s 
+
+------------------ MOTOR 2 -----------------
+-- TANGENT METHOD ESTIMATED CONSTANTS --
+Estimated mu2: 3.9845 s
+Estimated τ2: 0.0747 s
+Estimated T2: 0.7638 s
+Estimated w2: 11.9535 s
+
+---- MANUAL ESTIMATED TIME CONSTANTS ----
+Manual estimated tau2: 0.0600 s 
+Manual estimated T2: 0.5800 s 
