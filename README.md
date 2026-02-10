@@ -15,7 +15,7 @@ This folder contains the final report and its complete LaTeX source files.
 
 ### 📁 Videos
 This folder includes several videos recorded during experimental tests.  
-Most of them are linked where appropriate within the report.
+All of them are linked where appropriate within the report, in order to have an explanation of what is happening.
 
 ### 📁 Source C Code
 This folder contains the complete laboratory projects, as well as `main.c` files for easier access to the implemented code.
